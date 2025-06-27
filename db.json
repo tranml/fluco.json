@@ -1,11 +1,28 @@
 {
-  "posts": [
+  "media": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": "1",
+      "title": "Bubba's Food Audio",
+      "url": "https://res.cloudinary.com/dqssqzt3y/video/upload/v1751030255/Bubbas_Food_Audio_awhs6z.mp3",
+      "type": "audio",
+      "lessonSetId": "1"
+    },
+    {
+      "id": "2",
+      "title": "Hidden Y Sounds (Part 4 of 4)",
+      "url": "https://res.cloudinary.com/dqssqzt3y/video/upload/v1750664615/unit-4--part-4-of-4_aowxmp.mp4",
+      "type": "video",
+      "lessonSetId": "2"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "lessonSets": [
+    {
+      "id": "1",
+      "title": "Lesson 3: Bubba's Food"
+    },
+    {
+      "id": "2",
+      "title": "Unit 4: Hidden Y Sounds"
+    }
+  ]
 }
